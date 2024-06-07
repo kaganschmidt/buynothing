@@ -1,6 +1,9 @@
 {
   "name": "buynothing",
   "version": "1.0.0",
+  "dependencies": {
+    "react-router-dom": "^6.23.1"
+  },
   "description": "Pro-Palestinian Community Buy-Nothing Share App",
   "main": "index.js",
   "scripts": {
