@@ -1,0 +1,19 @@
+{
+  "name": "buynothing",
+  "version": "1.0.0",
+  "description": "Pro-Palestinian Community Buy-Nothing Share App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaganschmidt/buynothing.git"
+  },
+  "author": "CRSTL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaganschmidt/buynothing/issues"
+  },
+  "homepage": "https://github.com/kaganschmidt/buynothing#readme"
+}
